@@ -1,0 +1,22 @@
+{
+  "socials": [
+    {
+      "id": 2,
+      "social": "instagram",
+      "social_id": "_aminrasouli_",
+      "social_link": "https://www.instagram.com/_aminrasouli_/"
+    },
+    {
+      "id": 5,
+      "social": "linkedin",
+      "social_id": "mmdaminrasouli",
+      "social_link": "https://www.linkedin.com/in/mmdaminrasouli/"
+    },
+    {
+      "id": 3,
+      "social": "twitter",
+      "social_id": "@mmdamin_me",
+      "social_link": "https://twitter.com/mmdamin_me"
+    }
+  ]
+}
